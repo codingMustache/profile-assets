@@ -1,2 +1,2 @@
-# profile-assets
+# Profile Assets
 Assets for github profile
